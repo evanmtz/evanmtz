@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Evan Martinez
 - 👀 I’m interested in coding, anime, and calisthenics!
-- 🌱 I’m currently learning Computer Science!
-- 💞️ I’m looking to collaborate on anything relating to coding, crypto and/or blockchain.
+- 🌱 I’m currently learning Python and Full Stack Development!
+- 💞️ I’m looking to collaborate on anything relating to coding, crypto, or anything really.
 - 📫 How to reach me: Instagram: @evanmtz_  Twitter: @evanmtz_
 
 <!---
