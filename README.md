@@ -1,1 +1,1 @@
-Currently looking into penetration testing careers. Pretty cool tbh
+Currently looking into penetration testing/ethical hacking. Pretty cool tbh
