@@ -1,1 +1,1 @@
-Currently looking into penetration testing/ethical hacking. Pretty cool tbh
+Hey! I'm a student dev currently studying the Computer Science/IT field with hopes of landing a job as a software engineer. 
